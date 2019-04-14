@@ -17,7 +17,7 @@ flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src="http://recordit.co/WWG8RoYPI4" width=250><br>
+<img src="http://g.recordit.co/WWG8RoYPI4.gif" width=250><br>
 
 ### Notes
 This App took longer than I thought (5-6 hours) just because there was so much information to learn and use, slight coding mistakes aside, this project was an incredible way to learn more about how to use Swift
