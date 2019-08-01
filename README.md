@@ -32,7 +32,7 @@ This Project was very interesting to do and helped me realize a lot more about h
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
 
