@@ -20,6 +20,7 @@
 		E164E498226C11D800169302 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E164E497226C11D800169302 /* MovieDetailsViewController.swift */; };
 		E164E49A226C254300169302 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E164E499226C254300169302 /* MovieGridViewController.swift */; };
 		E164E49C226C2AB400169302 /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E164E49B226C2AB400169302 /* MovieGridCell.swift */; };
+		E168EBB022F514A1000F1942 /* MovieDetail2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E168EBAF22F514A1000F1942 /* MovieDetail2ViewController.swift */; };
 		E44BE142306FF3F53D03ACA6 /* Pods_flixster.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CE9580C97FCA6F825A2741C /* Pods_flixster.framework */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		E164E497226C11D800169302 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		E164E499226C254300169302 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		E164E49B226C2AB400169302 /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
+		E168EBAF22F514A1000F1942 /* MovieDetail2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetail2ViewController.swift; sourceTree = "<group>"; };
 		F9D03CFF6A3824E88570D0E6 /* Pods-flixsterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixsterTests.debug.xcconfig"; path = "Target Support Files/Pods-flixsterTests/Pods-flixsterTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -145,6 +147,7 @@
 				E164E497226C11D800169302 /* MovieDetailsViewController.swift */,
 				E164E499226C254300169302 /* MovieGridViewController.swift */,
 				E164E49B226C2AB400169302 /* MovieGridCell.swift */,
+				E168EBAF22F514A1000F1942 /* MovieDetail2ViewController.swift */,
 			);
 			path = flixster;
 			sourceTree = "<group>";
@@ -409,6 +412,7 @@
 				E164E498226C11D800169302 /* MovieDetailsViewController.swift in Sources */,
 				E158CC7E2262A4CF0068F95D /* AppDelegate.swift in Sources */,
 				E158CCAC2262A7520068F95D /* MoviesViewController.swift in Sources */,
+				E168EBB022F514A1000F1942 /* MovieDetail2ViewController.swift in Sources */,
 				E164E49C226C2AB400169302 /* MovieGridCell.swift in Sources */,
 				E158CCB02262AF5C0068F95D /* MovieCell.swift in Sources */,
 			);
@@ -500,6 +504,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = XL5ZU4VK99;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -523,6 +528,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Debug;
 		};
@@ -561,6 +567,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = XL5ZU4VK99;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
