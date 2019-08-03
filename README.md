@@ -11,7 +11,7 @@ flixster is an app that allows users to browse movies from the [The Movie Databa
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
@@ -31,7 +31,7 @@ This Project was very interesting to do and helped me realize a lot more about h
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [x] (1pt) Run your app on a real device.
+- [x] (1pt) Screen settings layout
 
 ### App Walkthough GIF
 
